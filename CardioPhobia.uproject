@@ -2,5 +2,23 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.9",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamController",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"PS4",
+		"WindowsNoEditor",
+		"XboxOne"
+	]
 }
