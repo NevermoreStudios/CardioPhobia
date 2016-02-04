@@ -11,6 +11,10 @@
 		{
 			"Name": "SteamController",
 			"Enabled": true
+		},
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
